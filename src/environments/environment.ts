@@ -5,12 +5,21 @@
 
 export const environment = {
   production: false,
+  // firebase: {
+  //   apiKey: "AIzaSyAwxo8Bt7ZeYfFLI5WrakbNGtJsskBv3wA",
+  //   authDomain: "oshop-f3445.firebaseapp.com",
+  //   databaseURL: "https://oshop-f3445.firebaseio.com",
+  //   projectId: "oshop-f3445",
+  //   storageBucket: "oshop-f3445.appspot.com",
+  //   messagingSenderId: "223112932947"    
+  // }
   firebase: {
-    apiKey: "AIzaSyAwxo8Bt7ZeYfFLI5WrakbNGtJsskBv3wA",
-    authDomain: "oshop-f3445.firebaseapp.com",
-    databaseURL: "https://oshop-f3445.firebaseio.com",
-    projectId: "oshop-f3445",
-    storageBucket: "oshop-f3445.appspot.com",
-    messagingSenderId: "223112932947"    
+    apiKey: "AIzaSyAJzL34eSMmT37Mt7HbewasRKkruiOp8gM",
+    authDomain: "oshop-852de.firebaseapp.com",
+    databaseURL: "https://oshop-852de.firebaseio.com",
+    projectId: "oshop-852de",
+    storageBucket: "oshop-852de.appspot.com",
+    messagingSenderId: "235543834972",
+    appId: "1:235543834972:web:95262eff2e4b9414"
   }
 };
